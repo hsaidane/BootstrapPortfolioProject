@@ -55,6 +55,13 @@
   color: #8B172C;
 }
 
+.marketing .col-md-4 .glyphicon:hover {
+  background: #2B87C4;
+  background-size: 300px 295px;
+  box-shadow: 0 0 0 3px rgba(88,69,22, 0.8);
+  transform: scale(1.0);
+}
+
 .marketing .col-md-4 .glyphicon {
   font-size: 60px;
   background-color: #7DC5E2;
