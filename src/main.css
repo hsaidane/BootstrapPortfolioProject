@@ -21,7 +21,7 @@
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 240px;
-  background-color: #777;
+  background-color: #4867AC;
 }
 .carousel-inner > .item > img {
   position: absolute;
@@ -52,11 +52,12 @@
 .marketing .col-md-4 {
   text-align: center;
   font-size: 16px;
+  color: #8B172C;
 }
 
 .marketing .col-md-4 .glyphicon {
   font-size: 60px;
-  background-color: #EAEAEA;
+  background-color: #7DC5E2;
   border-radius: 50%;
   padding: 40px;
   color: #444;
